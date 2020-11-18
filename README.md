@@ -5,7 +5,7 @@ My collection of various cheatsheets.
 ## Scripting
 
 > - [Bash](Scripting/bash.md)
-> - [Python](Scripting/pyhton.md)
+> - [Python](Scripting/python.md)
 > - [Ruby](Scripting/ruby.md)
 
 ## Pentest
