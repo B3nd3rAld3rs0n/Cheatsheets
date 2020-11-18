@@ -4,13 +4,13 @@ My collection of various cheatsheets.
 
 ## Scripting
 
-> - [Bash](Scripting/Bash.md)
-> - [Python](Scripting/Ruby.md)
-> - [Ruby](Scripting/Ruby.md)
+> - [Bash](Scripting/bash.md)
+> - [Python](Scripting/pyhton.md)
+> - [Ruby](Scripting/ruby.md)
 
 ## Pentest
 
-> - [Enumeration](Pentest/Enumeration.md)
+> - [Enumeration](Pentest/enumeration.md)
 
 ## Nix
 
