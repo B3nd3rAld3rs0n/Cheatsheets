@@ -284,6 +284,34 @@ while [ condition ]; do cmd; done
     </tr>
 </table>
 
+## Text Manipulation
+
+<table>
+    <tr>
+        <th>Command</th>
+        <th>Explanation</th>
+        <th>Usage</th>
+    </tr>
+    <tr>
+        <td style="text-align:center">Sed</td>
+        <td style="text-align:center">Stream Editor - transform text</td>
+        <td>
+            <pre lang="bash" style="text-align:center">
+sed -i "s/to replace/replacement/g"
+            </pre>
+        </td>
+    </tr>
+    <tr>
+        <td style="text-align:center">Cut</td>
+        <td style="text-align:center">Cut fields using delimiter</td>
+        <td>
+            <pre lang="bash" style="text-align:center">
+cut -d "&ltdelimiter&gt" -f "&ltfield # to cut&GT"
+            </pre>
+        </td>
+    </tr>
+</table>
+
 ## Colorization/Formatting
 
 See: [Bash tips: Colors and formatting](https://misc.flogisoft.com/bash/tip_colors_and_formatting)
